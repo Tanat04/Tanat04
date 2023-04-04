@@ -1,7 +1,6 @@
 <p align="center">
 
-<img width="1000" height="300" src="https://user-images.githubusercontent.com/111696279/229739526-7cc081db-c7a9-4c15-9604-80a42707bfc6.png" alt="my banner">
-
+<img width="1000" height="200" src="https://cdn.weasyl.com/static/media/7b/fd/3c/7bfd3ca38b05f745b218f11fb5efd7dc715059ed9ee327ed6003b9178474a6c9.gif" alt="my banner">
 </p>
 
 <h1 align="center">
