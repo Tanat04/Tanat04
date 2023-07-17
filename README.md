@@ -17,7 +17,7 @@ Hi there, I'm <a href="https://tanat04.github.io/" target="_blank" rel="noreferr
 
 - 🌱 I’m currently learning **React, MERN Stack**
 
-- 👨‍💻 All of my projects are available at [(https://my-3d-portfolio-tanat04.vercel.app/)]
+- 👨‍💻 All of my projects are available <a href="[https://tanat04.github.io/](https://my-3d-portfolio-tanat04.vercel.app/)" target="_blank" rel="noreferrer">Here</a>
 
 - ⚡ Fun fact **Love lifting weights 🏋️‍♂️**
 
